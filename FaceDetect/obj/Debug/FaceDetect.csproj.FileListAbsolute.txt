@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\obj\Debug\FaceDetect.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\obj\Debug\FaceDetect.Form1.resources
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\obj\Debug\FaceDetect.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\obj\Debug\FaceDetect.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\obj\Debug\FaceDetect.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\bin\Debug\FaceDetect.exe.config
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\bin\Debug\FaceDetect.exe
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\bin\Debug\FaceDetect.pdb
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\bin\Debug\Emgu.CV.xml
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\bin\Debug\Emgu.Util.xml
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\obj\Debug\FaceDetect.csproj.CopyComplete
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\obj\Debug\FaceDetect.exe
+C:\Users\Administrator\Documents\GitHub\FaceDetect Project\FaceDetect\FaceDetect\obj\Debug\FaceDetect.pdb
